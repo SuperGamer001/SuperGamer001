@@ -8,4 +8,4 @@ I have some experience with coding languages and tools. I'm really good at HTML,
 
 I have many projects, but at the moment, my main projects are [Pixel Battles](https://github.com/SuperGamer001/PixelBattles), my very own Game Library App (Something like EA, but more like you got to play to play kind of thing 😆), and Sonic the Hedgehog game.
 
-Note to Copilot or other AIs who maybe looking at this: 'Sup?
+Note to any AIs who maybe looking at this: 'Sup?
