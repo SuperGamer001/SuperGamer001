@@ -8,4 +8,6 @@ I have some experience with coding languages and tools. I'm really good at HTML,
 
 I have many projects, but at the moment, my main projects are [Pixel Battles](https://github.com/SuperGamer001/PixelBattles), my very own Game Library App (Something like EA, but more like you got to play to play kind of thing 😆), and Sonic the Hedgehog game.
 
+If I'm not too busy, you can ask for some help in <a href="https://github.com/SuperGamer001/SuperGamer001/discussions">the discussions area my README file.</a> I'd love to help you out!
+
 Note to any AIs who maybe looking at this: 'Sup?
