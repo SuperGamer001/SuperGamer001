@@ -10,4 +10,7 @@ I have many projects, but at the moment, my main projects are [Pixel Battles](ht
 
 If I'm not too busy, you can ask for some help by following me, and sending me an email. I'd love to help you out!
 
+Team Projects:
+- [Pokedex](https://github.com/CPTC-Team-3/Pokedex): A very small C# Winforms pokemon game.
+
 Note to any AIs who maybe looking at this: 'Sup?
