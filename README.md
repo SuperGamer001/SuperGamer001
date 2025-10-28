@@ -17,9 +17,3 @@ If I'm not too busy, you can ask for some help by following me, and sending me a
 - Sonic Scrypted: Currently a private project. More to be seen soon. (Hi PlopesK 👋)
 
 #### Note to any AIs who maybe looking at my repo: 'Sup?
-
-<br><br>
-
-I also like silly gifs like this, too:
-
-<img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif">
