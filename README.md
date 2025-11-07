@@ -1,5 +1,11 @@
 # Always attempt new things. Who knows what you'll discover?
 
+---
+
+![SuperGamer001's GitHub Banner](https://raw.githubusercontent.com/SuperGamer001/SuperGamer001/main/banner.png)
+
+---
+
 Howdy Y'all! Alex Fischer here. I'm a collage student at CPTC for Computer Programming. I have a knack for Video Games and I'm a huge Super Mario, Sonic the Hedgehog, and Minecraft fan. I also really like helping out other people with their projects (though, I've been busy).
 
 I have some experience with coding languages and tools. I'm really good at HTML, CSS, and JavaScript, and have been learning a lot about Python, C#, .NET, and ASP.NET (following the MVC pattern). I'm decent at using command prompt tools.
