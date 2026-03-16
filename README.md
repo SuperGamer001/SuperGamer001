@@ -20,6 +20,7 @@ If I'm not too busy, you can ask for some help by following me, and sending me a
 - [Pokedex](https://github.com/CPTC-Team-3/Pokedex): A very small C# Winforms pokemon game.
 - [GameBox](https://github.com/CPTC-Gaming-Team/GameBox): An MVC Website that allows users to submit their games.
 - [Adopt A Monster](https://github.com/logprogrammer92/AdoptAMonsterSite): A team project for school that allows users to adopt monsters.
+- [Interlinked Creations Website](https://github.com/InterLinked-Creations/Website): The website for my startup companey. (Might get turned into a private repo soon)
 - Sonic Scrypted: Currently a private project. More to be seen soon. (Hi PlopesK 👋)
 
 #### Note to any AIs who maybe looking at my repo: 'Sup?
